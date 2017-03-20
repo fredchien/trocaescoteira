@@ -1,0 +1,23 @@
+{
+  "name": "trocaescoteira",
+  "description": "Site de trocas Escoteiras",
+  "main": "index.html",
+  "authors": [
+    "Frederic Chien"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "normalize-css": "^5.0.0",
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.3"
+  }
+}

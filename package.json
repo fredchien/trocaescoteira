@@ -1,0 +1,28 @@
+{
+  "name": "trocaescoteira",
+  "version": "1.0.0",
+  "description": "Site de trocas Escoteiras",
+  "main": "index.html",
+  "scripts": {
+    "postinstall": "bower install",
+    "prestart": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredchien/trocaescoteira.git"
+  },
+  "author": "Frederic Chien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredchien/trocaescoteira/issues"
+  },
+  "homepage": "https://github.com/fredchien/trocaescoteira#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "grunt-spritesmith": "^6.4.0"
+  }
+}
